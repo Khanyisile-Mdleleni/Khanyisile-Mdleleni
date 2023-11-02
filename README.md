@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khanyisile Mdleleni</h1>
 <h3 align="center">A passionate SOFTWARE developer from Cape Town</h3>
 
-- 🔭 I’m currently working on [Portfolio Website](https://github.com/Khanyisile-Mdleleni/Portfolio)
+- 🔭 I’m currently working on [Task Management Tool](Github link:
+https://github.com/Khanyisile-Mdleleni/Task-Management
+)
 
 - 🌱 I’m currently learning **Java, Flutter and Firebase**
 
