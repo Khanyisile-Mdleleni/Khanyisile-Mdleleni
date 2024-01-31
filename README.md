@@ -5,11 +5,11 @@
 https://github.com/Khanyisile-Mdleleni/Task-Management
 )
 
-- 🌱 I’m currently learning **Java, Flutter and Firebase**
+- 🌱 I’m currently learning **MongoDB Express and Firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Khanyisile-Mdleleni](https://github.com/Khanyisile-Mdleleni)
 
-- 💬 Ask me about **react js, javascript and java**
+- 💬 Ask me about **react js, javascript and node js**
 
 - 📫 How to reach me **khanyisile.mdleleni@younglings.africa**
 
