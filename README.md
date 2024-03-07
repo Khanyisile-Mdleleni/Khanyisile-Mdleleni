@@ -2,7 +2,7 @@
 <h3 align="center">A passionate SOFTWARE developer from Cape Town</h3>
 
 - 🔭 I’m currently working on [Task Management Tool](Github link:
-https://github.com/Khanyisile-Mdleleni/Task-Management
+(https://github.com/Khanyisile-Mdleleni/Taskmanager)
 )
 
 - 🌱 I’m currently learning **MongoDB Express and Firebase**
