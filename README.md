@@ -7,13 +7,12 @@
 
 - 🌱 I’m currently learning **MongoDB Express and Firebase**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Khanyisile-Mdleleni](https://github.com/Khanyisile-Mdleleni)
+- 👨‍💻 All of my projects are available at https://github.com/Khanyisile-Mdleleni/Taskmanager
 
 - 💬 Ask me about **react js, javascript and node js**
 
 - 📫 How to reach me **khanyisile.mdleleni@younglings.africa**
 
-- ⚡ Fun fact **I think I am nerdy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
