@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khanyisile Mdleleni</h1>
-<h3 align="center">A passionate SOFTWARE developer from Cape Town</h3>
+<h3 align="center">A passionate Frontend Developer with two years of experience specializing in React.js. With a keen eye for design, I've also spent a year honing my skills in UI/UX design using tools like Figma, ensuring not just functionality but also a seamless user experience. </h3>
 
 - 🔭 I’m currently working on [Task Management Tool](Github link:
 (https://github.com/Khanyisile-Mdleleni/Taskmanager)
